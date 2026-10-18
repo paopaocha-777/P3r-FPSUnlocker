@@ -1,0 +1,5 @@
+Xbox Game Pass版:
+Extract into Persona 3 Reload/Content/P3R/Binaries/WinGDK/
+
+Steam:
+Extract into Persona 3 Reload/P3R/Binaries/Win64/
